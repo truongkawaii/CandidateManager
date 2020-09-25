@@ -1,0 +1,16 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://Pinokara@bitbucket.org/Pinokara/json-server.git",
+  "author": "shangpit <hec.stw@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "dev": "nodemon",
+    "db": "json-server --watch src/database/post.json"
+  }
+}

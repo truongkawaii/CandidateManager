@@ -1,0 +1,357 @@
+{
+  "recruitment": [
+    {
+      "name": "Tuyển dụng nhân viên ASP.NET MVC",
+      "position": "Senior , Junior",
+      "waysofwork": "Fulltime and partime",
+      "experience": "1 year đến 2 years",
+      "address": "583 Nguyễn Trãi , Hà Đông ,Nam Tu Liem HN",
+      "description": "Có kinh nghiệm quản lý dự án , Ít nhất 3 năm kn Tham gia vào phát triển backend theo nhu cầu của khách hàng ,Phân tích, đưa ra các giải pháp để tối ưu hóa tốc độ và độ ổn định của hệ thống ,Xây dựng hệ thống logging, tracing và monitoring,Kiểm tra và vá lỗi bảo mật,Tích hợp và kết nối với các hệ thống khác",
+      "requirements": [
+        "103",
+        "104",
+        "106"
+      ],
+      "benefits": "Lương cao , môi trường năng động",
+      "contact": "0962078997",
+      "created_at": "2020-05-12",
+      "updated_at": "Friday, 25 - 9 - 2020, 1:43:21 PM",
+      "id": "10221"
+    },
+    {
+      "name": "Tuyển dụng nhân viên PHP MVC",
+      "position": "Junior",
+      "waysofwork": "fulltime",
+      "experience": "1 year -> 2 years",
+      "address": "Dương Đình Nghệ Cầu Giấy",
+      "description": "Có kinh nghiệm quản lý dự án và teamwork",
+      "requirements": [
+        "103",
+        "102"
+      ],
+      "benefits": "Lương cao , môi trường năng động",
+      "contact": "0368836321",
+      "created_at": "2020-05-12",
+      "updated_at": "Wednesday, 23 - 9 - 2020, 3:04:16 PM",
+      "id": "10223"
+    },
+    {
+      "id": "10224",
+      "name": "Lập trình viên ReactJs",
+      "position": "senior , Junior",
+      "waysofwork": "fulltime",
+      "experience": "1 year -> 3 years",
+      "address": "Tây hồ Nguyễn Trãi",
+      "description": "Có kinh nghiệm quản lý dự án",
+      "requirements": [
+        "103",
+        "102"
+      ],
+      "benefits": "Lương cao , môi trường năng động",
+      "contact": "0368836321",
+      "created_at": "2020-05-12",
+      "updated_at": "2020-07-25"
+    },
+    {
+      "id": "10227",
+      "name": "Lập trình viên Shopify",
+      "position": "senior , Junior",
+      "waysofwork": "fulltime",
+      "experience": "1 year -> 3 years",
+      "address": "Nguyễn CHí Thanh",
+      "description": "Có kinh nghiệm quản lý dự án",
+      "requirements": [
+        "103",
+        "102"
+      ],
+      "benefits": "Lương cao , môi trường năng động",
+      "contact": "0368836321",
+      "created_at": "2020-05-12",
+      "updated_at": "2020-07-25"
+    },
+    {
+      "name": "HHHHHHHHHHHHHHHHHHHHHHH",
+      "position": "Lorem Ipsum is simply dummy text of the printing ",
+      "waysofwork": "Lorem Ipsum is simply dummy text of the printing ",
+      "experience": "Lorem Ipsum is simply dummy text of the printing ",
+      "address": "Lorem Ipsum is simply dummy text of the printing ",
+      "description": "Lorem Ipsum is simply dummy text of the printing ",
+      "requirements": [
+        "103",
+        "102"
+      ],
+      "benefits": "Lorem Ipsum is simply dummy text of the printing ",
+      "contact": "HHHHHHHHHHHHHHHHHHHHHHH",
+      "created_at": 1600833152711,
+      "updated_at": "Wednesday, 23 - 9 - 2020, 3:09:09 PM",
+      "id": "JgDlet0"
+    },
+    {
+      "name": "Lorem Ipsum is simply dum ",
+      "position": "Lorem Ipsum is simply dummy text ",
+      "waysofwork": "Lorem Ipsum is simply dummy text ",
+      "experience": "Lorem Ipsum is simply dummy text ",
+      "address": "Lorem Ipsum is simply dummy text ",
+      "description": "Lorem Ipsum is simply dummy text ",
+      "requirements": [
+        "103",
+        "102"
+      ],
+      "benefits": "Lorem Ipsum is simply dummy text ",
+      "contact": "Lorem Ipsum is simply dummy text ",
+      "created_at": "Thursday, 24 - 9 - 2020, 1:13:14 PM",
+      "updated_at": "Thursday, 24 - 9 - 2020, 1:13:14 PM",
+      "id": "qirl3Xs"
+    },
+    {
+      "name": "Lorem Ipsum is simply dummy text ",
+      "position": "Lorem Ipsum is simply dummy text ",
+      "waysofwork": "Lorem Ipsum is simply dummy text ",
+      "experience": "Lorem Ipsum is simply dummy text ",
+      "address": "Lorem Ipsum is simply dummy text ",
+      "description": "Lorem Ipsum is simply dummy text ",
+      "requirements": [
+        "103",
+        "102"
+      ],
+      "benefits": "Lorem Ipsum is simply dummy text ",
+      "contact": "Lorem Ipsum is simply dummy text ",
+      "created_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
+      "updated_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
+      "id": "vOI_2y4"
+    },
+    {
+      "name": "Lorem Ipsum is simply dummy text ",
+      "position": "Lorem Ipsum is simply dummy text ",
+      "waysofwork": "Lorem Ipsum is simply dummy text ",
+      "experience": "Lorem Ipsum is simply dummy text ",
+      "address": "Lorem Ipsum is simply dummy text ",
+      "description": "Lorem Ipsum is simply dummy text ",
+      "requirements": [
+        "103",
+        "102"
+      ],
+      "benefits": "Lorem Ipsum is simply dummy text ",
+      "contact": "Lorem Ipsum is simply dummy text ",
+      "created_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
+      "updated_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
+      "id": "dsaarr"
+    },
+    {
+      "name": "Lorem Ipsum is simply dummy text ",
+      "position": "Lorem Ipsum is simply dummy text ",
+      "waysofwork": "Lorem Ipsum is simply dummy text ",
+      "experience": "Lorem Ipsum is simply dummy text ",
+      "address": "Lorem Ipsum is simply dummy text ",
+      "description": "Lorem Ipsum is simply dummy text ",
+      "requirements": [
+        "103",
+        "102"
+      ],
+      "benefits": "Lorem Ipsum is simply dummy text ",
+      "contact": "Lorem Ipsum is simply dummy text ",
+      "created_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
+      "updated_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
+      "id": "ghjrff"
+    },
+    {
+      "name": "Lorem Ipsum is simply dummy text ",
+      "position": "Lorem Ipsum is simply dummy text ",
+      "waysofwork": "Lorem Ipsum is simply dummy text ",
+      "experience": "Lorem Ipsum is simply dummy text ",
+      "address": "Lorem Ipsum is simply dummy text ",
+      "description": "Lorem Ipsum is simply dummy text ",
+      "requirements": [
+        "103",
+        "102"
+      ],
+      "benefits": "Lorem Ipsum is simply dummy text ",
+      "contact": "Lorem Ipsum is simply dummy text ",
+      "created_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
+      "updated_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
+      "id": "ghg555"
+    },
+    {
+      "name": "TUYỂN DỤNG MAGENTO PHP",
+      "position": "Tech Lead",
+      "waysofwork": "parttime",
+      "experience": "6 tháng kn",
+      "address": "Nguyễn Trãi Hà Đông Bắc Ninh",
+      "description": "CÓ làm thì mới có ăn , việc nhẹ không lương",
+      "requirements": [
+        "101",
+        "102",
+        "103",
+        "104",
+        "105",
+        "106"
+      ],
+      "benefits": "môi trường năng động",
+      "contact": "03688361136",
+      "updated_at": "Friday, 25 - 9 - 2020, 11:13:56 AM",
+      "id": "Ui3_TrR"
+    },
+    {
+      "name": "Lorem Ipsum is simply dummy text of the printing a",
+      "position": "Lorem Ipsum is simply dummy text of the printing a",
+      "waysofwork": "Lorem Ipsum is simply dummy text of the printing a",
+      "experience": "Lorem Ipsum is simply dummy text of the printing a",
+      "address": "Lorem Ipsum is simply dummy text of the printing a",
+      "description": "Lorem Ipsum is simply dummy text of the printing a",
+      "requirements": [
+        "101",
+        "102"
+      ],
+      "benefits": "Lorem Ipsum is simply dummy text of the printing a",
+      "contact": "Lorem Ipsum is simply dummy text of the printing a",
+      "updated_at": "Friday, 25 - 9 - 2020, 11:31:53 AM",
+      "id": "2Kvy7UH"
+    },
+    {
+      "name": "Lorem Ipsum is simply dummy text of the printing a",
+      "position": "Lorem Ipsum is simply dummy text of the printing a",
+      "waysofwork": "Lorem Ipsum is simply dummy text of the printing a",
+      "experience": "Lorem Ipsum is simply dummy text of the printing a",
+      "address": "Lorem Ipsum is simply dummy text of the printing a",
+      "description": "Lorem Ipsum is simply dummy text of the printing a",
+      "requirements": [
+        "104"
+      ],
+      "benefits": "Lorem Ipsum is simply dummy text of the printing a",
+      "contact": "Lorem Ipsum is simply dummy text of the printing a",
+      "created_at": "Friday, 25 - 9 - 2020, 11:35:28 AM",
+      "updated_at": "Friday, 25 - 9 - 2020, 11:35:56 AM",
+      "id": "pX-Zt1A"
+    },
+    {
+      "name": "DDDDDDDDDDDDDDDffffff",
+      "position": "Lorem Ipsum is simply dummy text of the printing a",
+      "waysofwork": "Lorem Ipsum is simply dummy text of the printing a",
+      "experience": "Lorem Ipsum is simply dummy text of the printing a",
+      "address": "Lorem Ipsum is simply dummy text of the printing a",
+      "description": "Lorem Ipsum is simply dummy text of the printing a",
+      "requirements": [
+        "101",
+        "102"
+      ],
+      "benefits": "Lorem Ipsum is simply dummy text of the printing a",
+      "contact": "Lorem Ipsum is simply dummy text of the printing a",
+      "created_at": "Friday, 25 - 9 - 2020, 11:36:02 AM",
+      "updated_at": "Friday, 25 - 9 - 2020, 11:36:29 AM",
+      "id": "0ZcMKQD"
+    }
+  ],
+  "candidate": [
+    {
+      "name": "Nguyễn Xuân Trường",
+      "birthday": "20/08/2020",
+      "phone": "0368836321",
+      "email": "anhviphg02@gmail.com",
+      "address": "583 nguyễn trãi Hà Đông",
+      "job_apply": "TUYỂN DỤNG MAGENTO PHP",
+      "position_apply": "Junior",
+      "note": "đã qua pv",
+      "status": "100",
+      "created_at": "05-20-20",
+      "updated_at": "Friday, 25 - 9 - 2020, 2:16:48 PM",
+      "id": "101",
+      "recruitment": "Ui3_TrR"
+    },
+    {
+      "name": "Hoàng Xuân Vinh",
+      "birthday": "20/08/2020",
+      "phone": "0368836321",
+      "email": "anhviphg02@gmail.com",
+      "address": "583 nguyễn trãi",
+      "job_apply": "Tuyển dụng nhân viên ASP.NET MVC",
+      "position_apply": "Junior",
+      "note": "đã qua pv",
+      "status": "101",
+      "created_at": "05-20-20",
+      "updated_at": "Friday, 25 - 9 - 2020, 1:41:16 PM",
+      "id": "103",
+      "recruitment": "10221"
+    },
+    {
+      "name": "Đỗ Đức Thuận",
+      "birthday": "20/08/2020",
+      "phone": "0368836321",
+      "email": "anhviphg02@gmail.com",
+      "address": "583 nguyễn trãi",
+      "job_apply": "Lập trình viên ReactJs",
+      "position_apply": "Junior",
+      "note": "đã qua pv",
+      "status": "100",
+      "created_at": "05-20-20",
+      "updated_at": "Wednesday, 23 - 9 - 2020, 11:24:46 AM",
+      "id": "104",
+      "recruitment": "10224"
+    },
+    {
+      "name": "Nguyễn Văn Hiệp",
+      "birthday": "15/08/1997",
+      "phone": "0368836321",
+      "email": "anhviphg02@gmail.com",
+      "address": "583 nguyễn trãi",
+      "job_apply": "Lập trình viên Shopify",
+      "position_apply": "Junior",
+      "note": "đã qua pv",
+      "status": "104",
+      "created_at": "05-20-20",
+      "updated_at": "Wednesday, 23 - 9 - 2020, 3:06:50 PM",
+      "id": "105",
+      "recruitment": "10227"
+    },
+    {
+      "name": "nguyen xuan Long",
+      "birthday": "19/10/2000",
+      "phone": "0368836321",
+      "email": "truongnxth1805028@fpt.edu.vn",
+      "address": "tien du bac ninh",
+      "job_apply": "Lập trình viên Shopify",
+      "position_apply": "Junior",
+      "note": "TRỤdsjkcnsdmvsdnvskdnvksjdvns",
+      "status": "102",
+      "created_at": 1600683265813,
+      "updated_at": "Wednesday, 23 - 9 - 2020, 3:06:56 PM",
+      "id": "Mg-ennk",
+      "recruitment": "10227"
+    },
+    {
+      "name": "nguyen xuan VINH",
+      "birthday": "19/10/2000",
+      "phone": "0368836321",
+      "email": "truongnxth1805028@fpt.edu.vn",
+      "address": "tien du bac ninh",
+      "job_apply": "Lập trình viên Shopify",
+      "position_apply": "Junior",
+      "note": "asdasda",
+      "status": "105",
+      "created_at": 1600761227926,
+      "updated_at": "Wednesday, 23 - 9 - 2020, 3:07:19 PM",
+      "id": "pgXi0eM",
+      "recruitment": "10227"
+    }
+  ],
+  "manager": [
+    {
+      "id": "101",
+      "name": "truong",
+      "email": "truongnxth1805028@fpt.edu.vn",
+      "password": "truong123"
+    }
+  ],
+  "MustHaveSkill": [
+    {
+      "id": "201112",
+      "recruitment_id": "10221",
+      "skill_id": "13666"
+    }
+  ],
+  "skills": [
+    {
+      "id": "13666",
+      "name": "React"
+    }
+  ]
+}
