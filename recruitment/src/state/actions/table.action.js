@@ -46,9 +46,37 @@ export const paginationDataJobs = payload => ({
   type: Actions.PAGINATION_DATA,
   payload,
 });
-// Handler token
+// Handler token login
 export const redirectLoginTokenExp = () => {
   return {
     type: Actions.REDIRECT_LOGIN_TOKEN_EXP,
+  };
+};
+
+export const userLogin = payload => {
+  return {
+    type: Actions.USER_LOGIN,
+    payload,
+  };
+};
+
+export const userLoginSuccess = payload => {
+  return {
+    type: Actions.USER_LOGIN_SUCCESS,
+    payload,
+  };
+};
+
+export const userLoginError = payload => {
+  return {
+    type: Actions.USER_LOGIN_ERROR,
+    payload,
+  };
+};
+
+export const userLogout = payload => {
+  return {
+    type: Actions.USER_LOGOUT,
+    payload,
   };
 };

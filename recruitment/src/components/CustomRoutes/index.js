@@ -1,13 +1,13 @@
 import React, { Fragment } from 'react';
-import { Redirect } from 'react-router-dom';
+import { Redirect, useHistory } from 'react-router-dom';
 import Header from '../Header';
 import ListOptions from '../ListOptions';
 
 export const customRoutes = (path, MyComponent) => {
   const token = localStorage.getItem('tokens');
-  if (!token && path !== '/login' && path !== '/signup') {
-    // return <Redirect to="/login" />;
-  }
+  // if (token == null || token === '') {
+  //   return <Redirect to="/recruitment" />;
+  // }
   if (path !== '/signup' && path !== '/login') {
     return (
       <Fragment>

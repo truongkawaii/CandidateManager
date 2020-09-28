@@ -1,6 +1,11 @@
 import React, { useEffect } from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import {
+  BrowserRouter as Router,
+  Route,
+  Switch,
+  Redirect,
+} from 'react-router-dom';
 import _ from 'lodash';
 import jwtDecode from 'jwt-decode';
 import { useSelector } from 'react-redux';
@@ -16,12 +21,14 @@ import { customRoutes } from './components/CustomRoutes';
 function App() {
   const tokenCheck = useSelector(state => state.tokenExpState);
   let token = localStorage.getItem('tokens');
+
   useEffect(() => {
     if (token) {
       console.log('run');
       let decode = jwtDecode(token);
       // dispatch(getMyInformation(decode.userId));
     }
+
     if (tokenCheck.tokenExp === false) {
       console.log(tokenCheck, 'tokenExp');
       // return <Redirect to="/login" />;
@@ -37,6 +44,7 @@ function App() {
 
   return (
     <Router>
+      {token === '' || token == null ? <Redirect to="/login" /> : null}
       <Switch>{renderRoutes()}</Switch>
     </Router>
   );

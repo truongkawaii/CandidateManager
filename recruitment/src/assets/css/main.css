@@ -631,3 +631,16 @@ button[type='submit']:hover {
   border: 1px solid rgba(136, 134, 134, 0.76);
   margin-bottom: 10px;
 }
+.skill-item {
+  border: 1px solid rgb(114, 108, 108);
+  padding: 5px;
+  margin: 4px;
+  font-size: 12px;
+  display: inline-block;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.skill-item:hover {
+  color: rgba(211, 61, 61, 0.747);
+  border: 1px solid rgba(211, 61, 61, 0.658);
+}

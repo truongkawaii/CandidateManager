@@ -129,7 +129,15 @@ function RecrutmentDetail() {
                 <h4>Mô tả công việc :</h4>
                 <p> {description}</p>
                 <h1>Yêu cầu kĩ năng :</h1>
-                <p>{requirements}</p>
+                <p>
+                  {/* eslint-disable-next-line array-callback-return */}
+                  {requirements.map(item => {
+                    const listSkill = SKILL_CANDIDATE.filter(
+                      item2 => item2.id === item,
+                    )[0].name;
+                    return <span className="skill-item">{listSkill}</span>;
+                  })}
+                </p>
                 <h1>Lợi ích :</h1>
                 <p> {benefits}</p>
                 <h1>Liên hệ : </h1>

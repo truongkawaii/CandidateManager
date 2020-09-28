@@ -41,6 +41,7 @@ function CustomeCandidate() {
     }
   }, [dataListCandidate, dispatch, param.idCandidate, dataListJobs]);
   // Check candidate exist to set oreview
+
   if (candidateUpdate) {
     listOreview = STATUS_CANDIDATE.map(item => {
       if (item.statusId === candidateUpdate.status) {
