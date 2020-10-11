@@ -23,6 +23,7 @@ function* fetchAllCandidate() {
     yield put({ type: 'USER_FETCH_FAILED', message: e.message });
   }
 }
+
 function* postDataJD(action) {
   try {
     yield call(TableService.addJob, action.payload);
@@ -32,6 +33,7 @@ function* postDataJD(action) {
     yield put({ type: 'USER_FETCH_FAILED', message: e.message });
   }
 }
+
 function* putDataJD(action) {
   try {
     yield call(TableService.editJob, action.payload);
@@ -41,6 +43,7 @@ function* putDataJD(action) {
     yield put({ type: 'USER_FETCH_FAILED', message: e.message });
   }
 }
+
 function* deleteDataJD(action) {
   try {
     yield call(TableService.deleteJob, action.payload);
@@ -65,6 +68,7 @@ function* putDataCandidate(action) {
     yield put({ type: 'USER_FETCH_FAILED', message: e.message });
   }
 }
+
 function* postDataCandidate(action) {
   try {
     console.log(action, 'action nè');
@@ -79,6 +83,7 @@ function* postDataCandidate(action) {
     yield put({ type: 'USER_FETCH_FAILED', message: e.message });
   }
 }
+
 function* deleteDataCandidate(action) {
   try {
     yield call(TableService.deleteCandidate, action.payload);

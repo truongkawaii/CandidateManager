@@ -1,14 +1,8 @@
 export const BASE_URL = 'http://localhost:3000';
 // key of table
 export const SIDEBAR_OPTION = [
-  {
-    path: '/recruitment',
-    name: 'Danh sách JD công việc',
-  },
-  {
-    path: '/candidate',
-    name: 'Danh sách Ứng viên',
-  },
+  { id: '12', path: '/recruitment', name: 'Danh sách JD công việc' },
+  { id: '13', path: '/candidate', name: 'Danh sách Ứng viên' },
 ];
 
 export const STATUS_CANDIDATE = [

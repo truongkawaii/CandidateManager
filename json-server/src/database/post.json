@@ -15,7 +15,7 @@
       "benefits": "Lương cao , môi trường năng động",
       "contact": "0962078997",
       "created_at": "2020-05-12",
-      "updated_at": "Friday, 25 - 9 - 2020, 1:43:21 PM",
+      "updated_at": "Monday, 28 - 9 - 2020, 9:08:04 AM",
       "id": "10221"
     },
     {
@@ -87,40 +87,6 @@
       "id": "JgDlet0"
     },
     {
-      "name": "Lorem Ipsum is simply dum ",
-      "position": "Lorem Ipsum is simply dummy text ",
-      "waysofwork": "Lorem Ipsum is simply dummy text ",
-      "experience": "Lorem Ipsum is simply dummy text ",
-      "address": "Lorem Ipsum is simply dummy text ",
-      "description": "Lorem Ipsum is simply dummy text ",
-      "requirements": [
-        "103",
-        "102"
-      ],
-      "benefits": "Lorem Ipsum is simply dummy text ",
-      "contact": "Lorem Ipsum is simply dummy text ",
-      "created_at": "Thursday, 24 - 9 - 2020, 1:13:14 PM",
-      "updated_at": "Thursday, 24 - 9 - 2020, 1:13:14 PM",
-      "id": "qirl3Xs"
-    },
-    {
-      "name": "Lorem Ipsum is simply dummy text ",
-      "position": "Lorem Ipsum is simply dummy text ",
-      "waysofwork": "Lorem Ipsum is simply dummy text ",
-      "experience": "Lorem Ipsum is simply dummy text ",
-      "address": "Lorem Ipsum is simply dummy text ",
-      "description": "Lorem Ipsum is simply dummy text ",
-      "requirements": [
-        "103",
-        "102"
-      ],
-      "benefits": "Lorem Ipsum is simply dummy text ",
-      "contact": "Lorem Ipsum is simply dummy text ",
-      "created_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
-      "updated_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
-      "id": "vOI_2y4"
-    },
-    {
       "name": "Lorem Ipsum is simply dummy text ",
       "position": "Lorem Ipsum is simply dummy text ",
       "waysofwork": "Lorem Ipsum is simply dummy text ",
@@ -153,23 +119,6 @@
       "created_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
       "updated_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
       "id": "ghjrff"
-    },
-    {
-      "name": "Lorem Ipsum is simply dummy text ",
-      "position": "Lorem Ipsum is simply dummy text ",
-      "waysofwork": "Lorem Ipsum is simply dummy text ",
-      "experience": "Lorem Ipsum is simply dummy text ",
-      "address": "Lorem Ipsum is simply dummy text ",
-      "description": "Lorem Ipsum is simply dummy text ",
-      "requirements": [
-        "103",
-        "102"
-      ],
-      "benefits": "Lorem Ipsum is simply dummy text ",
-      "contact": "Lorem Ipsum is simply dummy text ",
-      "created_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
-      "updated_at": "Thursday, 24 - 9 - 2020, 1:14:15 PM",
-      "id": "ghg555"
     },
     {
       "name": "TUYỂN DỤNG MAGENTO PHP",
@@ -208,22 +157,6 @@
       "id": "2Kvy7UH"
     },
     {
-      "name": "Lorem Ipsum is simply dummy text of the printing a",
-      "position": "Lorem Ipsum is simply dummy text of the printing a",
-      "waysofwork": "Lorem Ipsum is simply dummy text of the printing a",
-      "experience": "Lorem Ipsum is simply dummy text of the printing a",
-      "address": "Lorem Ipsum is simply dummy text of the printing a",
-      "description": "Lorem Ipsum is simply dummy text of the printing a",
-      "requirements": [
-        "104"
-      ],
-      "benefits": "Lorem Ipsum is simply dummy text of the printing a",
-      "contact": "Lorem Ipsum is simply dummy text of the printing a",
-      "created_at": "Friday, 25 - 9 - 2020, 11:35:28 AM",
-      "updated_at": "Friday, 25 - 9 - 2020, 11:35:56 AM",
-      "id": "pX-Zt1A"
-    },
-    {
       "name": "DDDDDDDDDDDDDDDffffff",
       "position": "Lorem Ipsum is simply dummy text of the printing a",
       "waysofwork": "Lorem Ipsum is simply dummy text of the printing a",
@@ -239,6 +172,24 @@
       "created_at": "Friday, 25 - 9 - 2020, 11:36:02 AM",
       "updated_at": "Friday, 25 - 9 - 2020, 11:36:29 AM",
       "id": "0ZcMKQD"
+    },
+    {
+      "name": "Tuyển .NET Core",
+      "position": "um is si Lorem Ipsum is simply dummmpl ",
+      "waysofwork": "Fulltime and partime",
+      "experience": "Lorem Ipsum is simply dummy text of the printing a",
+      "address": "Lorem Ipsum is simply dummy text of the printing a",
+      "description": "Lorem Ipsum is simply dummy text of the printing a",
+      "requirements": [
+        "101",
+        "104",
+        "103",
+        "105"
+      ],
+      "benefits": "Lorem Ipsum is simply dummy text of the printing a",
+      "contact": "Lorem Ipsum is simply dummy text of the printing a",
+      "updated_at": "Monday, 28 - 9 - 2020, 10:51:26 AM",
+      "id": "kce2LO8"
     }
   ],
   "candidate": [

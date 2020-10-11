@@ -23,14 +23,14 @@ body {
   padding-top: 40px;
 }
 .list-option li a {
-  color: #869fb1;
+  color: #ffffff;
   padding: 10px 5px 10px 20px;
   width: 100%;
   display: inline-block;
   font-size: 14px;
 }
 .list-option li a:hover {
-  background-color: #354a58;
+  /* background-color: #354a58; */
 }
 /* =================== header ===================== */
 .header {
@@ -204,7 +204,9 @@ textarea {
   width: 100%;
   margin-bottom: 10px;
 }
-
+.long-input .ant-select-selector {
+  max-width: 700px;
+}
 .short-input1 {
   margin-bottom: 10px;
   width: 55%;
@@ -632,15 +634,14 @@ button[type='submit']:hover {
   margin-bottom: 10px;
 }
 .skill-item {
-  border: 1px solid rgb(114, 108, 108);
+  border: 1px solid rgba(114, 108, 108, 0.548);
   padding: 5px;
   margin: 4px;
   font-size: 12px;
   display: inline-block;
   transition: 0.3s;
-  cursor: pointer;
 }
-.skill-item:hover {
-  color: rgba(211, 61, 61, 0.747);
-  border: 1px solid rgba(211, 61, 61, 0.658);
+.item-job:hover .skill-item {
+  color: rgb(114, 108, 108);
+  border: 1px solid rgb(114, 108, 108);
 }

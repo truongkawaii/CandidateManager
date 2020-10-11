@@ -7,6 +7,10 @@ import { Provider } from 'react-redux';
 import rootReducer from '../reducers/index';
 import rootSaga from '../sagas/sagas';
 
+// store.propTypes = {
+//   children: PropTypes.any.isRequired,
+// };
+
 const sagaMiddleware = createSagaMiddleware();
 
 const storeApp = configureStore({
@@ -15,6 +19,7 @@ const storeApp = configureStore({
 });
 
 const store = props => {
+  // eslint-disable-next-line react/prop-types
   return <Provider store={storeApp}>{props.children}</Provider>;
 };
 sagaMiddleware.run(rootSaga);
